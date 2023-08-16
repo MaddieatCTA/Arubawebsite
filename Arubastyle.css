@@ -1,5 +1,6 @@
 body {
     background-color: powderblue;
+    text-align: center;
 }
 
 h1 {
@@ -15,4 +16,8 @@ h1 {
 
 #link {
     font-size: 25px;
+}
+
+#Essential {
+    font-size: 20px;
 }
